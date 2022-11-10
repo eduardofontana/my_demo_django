@@ -14,8 +14,10 @@
 #
 # 3 - Subindo o Servidor:</br>
  🟢 python manage.py runserver</br>
-
-Its OK.
+#
+# 4 - Se tudo der certo:
+#
+✅ Its OK.
 
 Performing system checks...
 
@@ -31,8 +33,6 @@ Quit the server with CONTROL-C.
 #
 # 5 - Abrao navegador:</br>
  ✔️ Cole esta url: http://127.0.0.1:8000/</br>
-#
- ✔️Control + C</br>
 #
  ✔️ Fim</br>
 #
