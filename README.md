@@ -34,7 +34,7 @@ Quit the server with CONTROL-C.
 # 5 - Abra o navegador:</br>
  ✔️ Cole esta url: http://127.0.0.1:8000/</br>
 #
-# Aprenda mais em https://docs.djangoproject.com/en/4.1/
+# 📣 Aprenda mais em https://docs.djangoproject.com/en/4.1/
 #
  ✔️ Fim</br>
 #
