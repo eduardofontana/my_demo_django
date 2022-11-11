@@ -31,8 +31,10 @@ Django version 4.1, using settings 'mysite.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CONTROL-C.
 #
-# 5 - Abrao navegador:</br>
+# 5 - Abra o navegador:</br>
  ✔️ Cole esta url: http://127.0.0.1:8000/</br>
+#
+# Aprenda mais em https://docs.djangoproject.com/en/4.1/
 #
  ✔️ Fim</br>
 #
